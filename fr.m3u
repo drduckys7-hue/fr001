@@ -1,0 +1,36 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TF1.fr@SD", (tf1-1080p)
+https://tvradiozap.eu/tools/np-m3u8.php/tf1hd
+
+#EXTINF:-1 tvg-id="TF1.fr@SD", (tf1-1080p 2 )
+https://cachehsi1a.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxNTQwOTE3Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy90ZjFoZC9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiJlNTZlMzQwZTg2MWZkYjZkIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOCIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNDEiLCJzb3VyY2VzIjpbMTAwXX0=.iIk47O2RLqg0lNwPkCUh8gswZf0WB5O6h7sicEItD-vDI7huN8CqhsVVFAaZEfIhg5_Di6L5uAZnZ9XzBFDjwg==/live/eds/tf1hd/browser-HLS8/tf1hd.m3u8
+
+
+
+#EXTINF:-1 tvg-id="M6.fr@SD", (M6-1080p)
+https://cachehsi1a.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcyMjIxMDkyIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9tNmhkL2Jyb3dzZXItSExTOC8iLCJzZXNzaW9uX2Nkbl9pZCI6ImZmN2NjMDY3YWY4N2QxYTciLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzEwLjAuMjI5LjE5Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiI0MSIsInNvdXJjZXMiOls0OF19.e-_NjGYVgmpS6HBCOhjGQcW-wTkSwd9GbrwVvHiUYOkQ0-DAdHkPtm1UbcNJ_FA0778vk_JGgtgFXbHGoscLZg==/live/eds/m6hd/browser-HLS8/m6hd.m3u8 
+
+#EXTINF:-1 tvg-id="W9.fr@SD", (W9-1080p)
+https://tvradiozap.eu/tools/np-m3u8.php/w9
+
+#EXTINF:-1 tvg-id="TF1.fr@SD", (tf1 series et films-1080p)
+https://tvradiozap.eu/tools/np-m3u8.php/hd1
+
+
+
+#EXTINF:-1,BFM TV
+https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
+
+#EXTINF:-1,CNews
+https://hls-m015-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-v3-hd-clair/cnews-clair-hd.m3u8
+
+
+
+#EXTINF:-1,RMC Story
+https://d15aro46bnpfm8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fqkqiax1078up/RMC_Story_FR.m3u8
+
+#EXTINF:-1,RMC Découverte
+https://d16zzycxcd0m0r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hixvx5kymecr9/RMC_Decouverte_FR.m3u8
+
+#EXTINF:-1,Le Figaro TV
+https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
