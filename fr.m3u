@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="TF1.fr@SD", (tf1-1080p)
 https://tvradiozap.eu/tools/np-m3u8.php/tf1hd
 #EXTINF:-1 tvg-id="M6.fr@SD", (M6-1080p)
-https://tvradiozap.eu/tools/np-m3u8.php/M6hd
+https://tvradiozap.eu/tools/np-m3u8.php/m6hd
 #EXTINF:-1 tvg-id="W9.fr@SD", (W9-1080p)
 https://tvradiozap.eu/tools/np-m3u8.php/w9
 #EXTINF:-1 tvg-id="TF1.fr@SD", (tf1 series et films-1080p)
@@ -17,3 +17,4 @@ https://d15aro46bnpfm8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d16zzycxcd0m0r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hixvx5kymecr9/RMC_Decouverte_FR.m3u8
 #EXTINF:-1,Le Figaro TV
 https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
+
